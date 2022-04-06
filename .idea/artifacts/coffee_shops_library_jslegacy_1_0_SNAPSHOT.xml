@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="coffee-shops-library-jslegacy-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/my-lib</output-path>
+    <root id="archive" name="coffee-shops-library-jslegacy-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="coffee-shops-library.jsMain" />
+    </root>
+  </artifact>
+</component>

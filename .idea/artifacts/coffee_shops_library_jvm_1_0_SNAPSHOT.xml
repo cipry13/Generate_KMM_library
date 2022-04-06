@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="coffee-shops-library-jvm-1.0-SNAPSHOT">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <root id="archive" name="coffee-shops-library-jvm-1.0-SNAPSHOT.jar">
+      <element id="module-output" name="coffee-shops-library.jvmMain" />
+    </root>
+  </artifact>
+</component>
